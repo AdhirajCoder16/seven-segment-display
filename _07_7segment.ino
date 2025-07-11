@@ -1,9 +1,3 @@
-/***********************************************************
-File name: 07_7segment.ino
-Description:Segment display Numbers 0 to 9, each digital display 
-            1 second.After the cycle show
-Website: www.quadstore.in
-***********************************************************/
 
 int a=7; //definition digital 7  pins as pin to control 'a' section(segment)
 int b=6; //definition digital 6  pins as pin to control 'b' section(segment)
